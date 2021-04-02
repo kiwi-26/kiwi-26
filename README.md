@@ -11,6 +11,8 @@
 ![CSS|LIKE](https://img.shields.io/badge/CSS-LIKE-eca713.svg?style=flat-square)
 ![JavaScript|LIKE](https://img.shields.io/badge/JavaScript-LIKE-eca713.svg?style=flat-square)
 
+![AWS Lambda|LIKE](https://img.shields.io/badge/AWSLambda-LIKE-eca713.svg?style=flat-square)
+
 ### LEARNING
 ![PWA|LEARNING](https://img.shields.io/badge/PWA-LEARNING-5cad5c.svg?style=flat-square)
 ![Vue|LEARNING](https://img.shields.io/badge/Vue-LEARNING-5cad5c.svg?style=flat-square)
@@ -18,14 +20,9 @@
 ![Kotlin|LEARNING](https://img.shields.io/badge/Kotlin-LEARNING-5cad5c.svg?style=flat-square)
 ![SpringFramework|LEARNING](https://img.shields.io/badge/SpringFramework-LEARNING-5cad5c.svg?style=flat-square)
 
-### RUSTY
-![Android|RUSTY](https://img.shields.io/badge/Android-RUSTY-29848e.svg?style=flat-square)
-
 
 ## Personal works
 [げんきカレンダー](https://hru.wiwi.pw/)
-
-[カブにっき](https://ac-kabu.wiwi.pw/)
 
 ## Presentations
 [Speaker Deck](https://speakerdeck.com/kiwi26)
