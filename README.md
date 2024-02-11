@@ -27,5 +27,6 @@
 ## Presentations
 [Speaker Deck](https://speakerdeck.com/kiwi26)
 
-## Twitter
-[@koga_wiwi](https://twitter.com/koga_wiwi)
+## Contacts
+X: [@koga_wiwi](https://twitter.com/koga_wiwi)
+Bluesky: [@kiwi26](https://bsky.app/profile/kiwi26.bsky.social)
